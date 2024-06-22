@@ -1,4 +1,4 @@
 FROM almalinux:9
 LABEL author="niharika" \
-      course= "DevOps" \
+      course="DevOps" \
       description="this is docker practice"
